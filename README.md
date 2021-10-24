@@ -1,0 +1,2 @@
+# app
+nginx + index.html
